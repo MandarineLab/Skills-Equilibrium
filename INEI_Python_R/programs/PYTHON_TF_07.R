@@ -1,13 +1,6 @@
 #=========================================================
 #                   TRABAJO FINAL
 #=========================================================
-# Grupo 07
-
-# Integrantes:
-# Adriana Sarmiento - 20211697
-# Leydi Chipana     - 20202209
-# Alonso Sánchez    - 20206361
-# Christian García  - 20144395
 
 #== Parte 1: Ordenamiento de espacio y estructura de trabajo ===
 #== Parte 2: Procesamiento de información ======================
