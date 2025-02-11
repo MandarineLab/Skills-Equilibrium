@@ -1,5 +1,4 @@
-# Skills-Equilibrium
-Este es un respositorio temporal para mostrar mis habilidades en programación como Practicante de Investigación Cuantitativa
+Este es un respositorio temporal para mostrar mis habilidades en programación en investigación cuantitativa
 
 Project Name  | Description   |  Topic            |  Archivo
 ------------- | ------------- | ------------------| ------------------
